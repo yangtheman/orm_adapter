@@ -32,5 +32,6 @@ Gem::Specification.new do |s|
   s.add_development_dependency "datamapper", ">= 1.0"
   s.add_development_dependency "dm-sqlite-adapter", ">= 1.0"
   s.add_development_dependency "dm-active_model", ">= 1.0"
+  s.add_development_dependency "couchrest_model", ">= 1.1.2"
 end
 
